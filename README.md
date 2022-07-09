@@ -1,2 +1,2 @@
 # kitab-bayu
-Catatan-catatan belajar Bayu
+Repository ini merupakan catatan pembelajaran Bayu
