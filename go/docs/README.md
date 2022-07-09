@@ -11,8 +11,8 @@ Keuntungan dari bahasa go adalah
 1. Go diakui merupakan bahasa yang sederhana.
 2. Go memiliki kecepatan yang sangat baik. Hal ini dikarenakan kode go dikompilasi menjadi binary code sehingga kode dapat dijalankan dengan optimal.
 3. Go juga sudah mendukung _garbage collector_ sehingga kita tidak perlu pusing-pusing lagi memikirkan mengenai manajemen memori seperti bahasa C.
-4. Kode yang dibuat oleh kita dipaksa untuk rapi kalau tidak yaa error :D
-5. Community Support yang baik, klo punya problem tinggal searching nemu ko solusinya :)
+4. Kode yang dibuat oleh kita dipaksa untuk rapi kalau tidak yaa error 😅
+5. Community Support yang baik, klo punya problem tinggal searching nemu ko solusinya 😊
 
 Kekurangan dari bahasa go adalah
 
@@ -44,4 +44,5 @@ Mau berkenalan lebih dalam dengan bahasa go? Yuk pantengin bab-bab selanjutnya:
 ## Atribusi
 
 [1] Gambar diatas merupakan gambar yang dibuat oleh Renee French. reneefrench.blogspot.com, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons.
+
 [2] Go (bahasa pemrograman). (2022, Juni 29). Di Wikipedia, Ensiklopedia Bebas. Diakses pada 22:41, Juni 29, 2022, dari https://id.wikipedia.org/w/index.php?title=Go_(bahasa_pemrograman)&oldid=21308432
